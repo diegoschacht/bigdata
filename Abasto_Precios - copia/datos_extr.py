@@ -21,7 +21,7 @@ def download_data(fecha_actual=datetime.datetime.now(), data_dir='Datos'):
 
     #Datos desde junio de 2017
 
-    for i_anho in range(2017, fecha_actual.year + 1):
+    for i_anho in range(2005, fecha_actual.year + 1):
 
         anho = str(i_anho)
         for i_mes in range(1, 13):
