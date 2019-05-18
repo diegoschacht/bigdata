@@ -1,0 +1,7 @@
+Campo	Descripcion	Tipo
+Producto	Es el nombre de los productos que se venden en el Abasto	String
+Unidad	El tipo de unidad fisica que tiene el producto	String
+Precio	Precio del producto ofertado en el Abasto	Integer
+Calidad	La calidad disponnible de los productos ofertados, (C) Corriente o Primera, (E) Excelente, (R) Regular o Segunda String
+Oferta 	(A) Abundante, (N) Normal, (E) Escasa	String
+Fecha	La fecha la cual se publica el informe	Date
